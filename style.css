@@ -11,6 +11,8 @@ main {
 h1 {
   align-self: center;
   justify-self: center;
+  margin-top: 7%;
+  margin-bottom: 1%;
 }
 .calculator-container {
   display: flex;
